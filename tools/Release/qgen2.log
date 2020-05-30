@@ -1,0 +1,102 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (distcomp.vcxproj, grammar.vcxproj, mkheader.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  address.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  build_support.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  date.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  decimal.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  dist.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  error_msg.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  eval.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+eval.c(564): warning C4244: '=': conversion from 'ds_key_t' to 'int', possible loss of data
+eval.c(572): warning C4244: '=': conversion from 'ds_key_t' to 'int', possible loss of data
+eval.c(589): warning C4244: '=': conversion from 'ds_key_t' to 'int', possible loss of data
+eval.c(607): warning C4244: '=': conversion from 'ds_key_t' to 'int', possible loss of data
+  expr.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  genrand.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  grammar_support.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  keywords.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  list.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  nulls.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  parallel.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  Permute.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+Permute.c(115): warning C4244: 'function': conversion from 'ds_key_t' to 'std::size_t', possible loss of data
+  print.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  QgenMain.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  query_handler.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  release.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  r_params.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  Generating Code...
+  Compiling...
+  scaling.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  scd.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  StringBuffer.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  substitution.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  tdefs.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  text.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  tokenizer.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  w_inventory.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  y.tab.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+qgen.y(331): warning C4244: 'function': conversion from 'ds_key_t' to 'int', possible loss of data
+qgen.y(347): warning C4244: 'function': conversion from 'ds_key_t' to 'int', possible loss of data
+y.tab.c(585): warning C4102: 'yynewerror': unreferenced label
+y.tab.c(590): warning C4102: 'yyerrlab': unreferenced label
+  Generating Code...
+  qgen2.vcxproj -> C:\Users\AkPC\Downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\dsqgen.exe
+  qgen2.vcxproj -> .\./qgen2.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (distcomp.vcxproj, dsqgen.vcxproj, grammar.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mkheader.c
+c:\users\akpc\downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\porting.h(93): warning C4005: 'MAXINT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h(452): note: see previous definition of 'MAXINT'
+  mkheader.vcxproj -> C:\Users\AkPC\Downloads\191929c2-c36a-41a6-9d2c-d3ffae949225-tpc-ds-tool\v2.11.0rc2\tools\mkheader.exe
+  mkheader.vcxproj -> .\../mkheader.pdb (Full PDB)

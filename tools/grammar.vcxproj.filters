@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{b3979fbf-7a78-470f-aa9c-70f9c8b1abda}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{35ed9253-f183-4a32-ae73-69745913f74d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{13237a02-a41b-430b-a54e-7dd848e4a79d}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="error_msg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="expr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="grammar_support.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="keywords.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="porting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qgen_params.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="StringBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tables.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tdefs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="template.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="qgen.y" />
+    <CustomBuild Include="tokenizer.l" />
+  </ItemGroup>
+</Project>
